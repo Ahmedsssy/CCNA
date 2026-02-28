@@ -17,7 +17,7 @@ Database Management | Network Simulation | CCNA Preparation
        alt="GitHub stats" align="right" width="400" />
 </a>
 
-- 📊 **Data Analyst** | Specialized in MySQL & Python (Pandas)
+- 📊
 - 🎓 **CCNA Student** | Networking Fundamentals
 - 🖥️ **Packet Tracer Expert** | Virtual Network Simulation
 - 🌐 Building **Enterprise Networks** (VLANs, Routing, Security)
